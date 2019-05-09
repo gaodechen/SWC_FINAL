@@ -1,0 +1,43 @@
+.ant-carousel {
+    height: 300px;
+}
+
+.ant-carousel .slick-slider {
+    text-align: center;
+    height: 100%;
+    line-height: 160px;
+    background: #364d79;
+    overflow: hidden;
+}
+
+.ant-carousel .slick-slider .poster-title {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.ant-carousel .slick-slider .poster-title .title-content {
+    width: 100%;
+    height: 140px;
+    justify-content: center;
+    background: rgba(0, 0, 0, 0.4)
+}
+
+.ant-carousel .slick-slider .poster-title h3 {
+    color: #fff;
+    height: 60px;
+    font-size: 2.5em;
+}
+
+.ant-carousel .slick-slider .poster-title h2 {
+    color: #fff;
+}
+
+.music-page-content {
+    margin: 16px 0;
+    border: 2px dashed #e9e9e9;
+    background-color: #fafafa;
+    padding: 16px;
+}
